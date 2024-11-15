@@ -62,11 +62,3 @@ To use the model for prediction, follow these steps:
 4. **Make predictions:** Use the loaded model's `predict()` method to generate predictions for the new data.
 
 5. **Interpret predictions:** The predictions will be an array of two values for each student: the first value represents Enrollment Likelihood (0 or 1), and the second value represents Need for Support (0 or 1).
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests for improvements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
